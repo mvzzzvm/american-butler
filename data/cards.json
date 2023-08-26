@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Uptown marina loft #917",
+        "type": "Квартира",
+        "isNew": false,
+        "price": "4750",
+        "pricePer": null,
+        "status": "Продажа",
+        "location": "Майами-Бич",
+        "img": "img/popular/01.jpg"
+    },
+    {
+        "title": "Jade Signature 2023",
+        "type": "Вилла",
+        "isNew": false,
+        "price": "6000",
+        "pricePer": null,
+        "status": "Аренда",
+        "location": "Флорида Киз",
+        "img": "img/popular/02.jpg"
+    },
+    {
+        "title": "Monad Terrace",
+        "type": "Квартира",
+        "isNew": false,
+        "price": "1500",
+        "pricePer": "сутки",
+        "status": "Продажа",
+        "location": "Майами",
+        "img": "img/popular/03.jpg"
+    },
+    {
+        "title": "Uptown Terrace",
+        "type": "Коммерческая недвижимость",
+        "isNew": true,
+        "price": "5000",
+        "pricePer": "месяц",
+        "status": "Аренда",
+        "location": "Майами-Бич",
+        "img": "img/popular/04.jpg"
+    },
+    {
+        "title": "Uptown Terrace #12",
+        "type": "Вилла",
+        "isNew": true,
+        "price": "2736",
+        "pricePer": "месяц",
+        "status": "Аренда",
+        "location": "Майами-Бич",
+        "img": "img/popular/02.jpg"
+    }
+]
